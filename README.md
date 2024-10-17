@@ -1,1 +1,1 @@
-# semantic-retrieval
+# semantic-retrieval-faiss
